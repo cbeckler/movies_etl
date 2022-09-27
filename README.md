@@ -1,2 +1,6 @@
-# movies_etl
-using sql and python to extract, transform, and load movie data
+# ETL with Movie Data
+## Overview of Project
+
+### Purpose
+
+
